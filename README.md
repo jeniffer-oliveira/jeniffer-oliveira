@@ -3,8 +3,6 @@
 - Estudando Sistemas para Internet
 - Estou criando projetos para adquirir mais experiência em desenvolvimento
 - Estudando diversas linguagens de programação
-- Contate-me no email: jeniffer.campos.241201@gmail.com
-- Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/jeniffer-oliveira">
@@ -26,6 +24,6 @@
   <a href = "mailto:jeniffer.campos.241201@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeniffer-de-oliveira-a66972181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]
+  ![Snake animation]()
  
 </div>
