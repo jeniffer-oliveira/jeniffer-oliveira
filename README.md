@@ -2,7 +2,7 @@
 
 - Estudando Sistemas para Internet
 - Estou criando projetos para adquirir mais experiência em desenvolvimento
-- 
+
   
 <div align="center">
   <a href="https://github.com/jeniffer-oliveira">
